@@ -1,3 +1,4 @@
+# Portiq
 # 📊 StockPilot — Indian Stock Market Portfolio Manager
 
 A full-stack MERN application for Indian stock market portfolio management with **real-time NSE/BSE prices** and **RSI-based buy/sell recommendations**.
